@@ -1,0 +1,83 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, sans-serif;
+  margin: 2em;
+  text-align: center;
+  background-color: #fee975;
+}
+
+h1 {
+  color: #ffaa7b;
+}
+
+h2 {
+  width: 75%;
+  margin: auto;
+  font-size: 1em;
+  }
+
+.projectPic {
+  width: 200px;
+  margin: 0px 50px;
+  height: 150px;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 1100px;
+}
+
+.project {
+  width: 300px;
+  border: 5px #ffaa7b solid;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  background-color: black;
+}
+
+a {
+  color: #0080ff;
+}
+
+.project a:hover {
+  color: lightgray;
+}
+
+h3, h4 {
+  color: #e4a4ee;
+}
+
+.project p {
+  color: lightgray;
+}
+
+.project img:hover {
+  position:relative;
+    top:-25px;
+    left:-150px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.footer h2 {
+  margin: 0px 10px;
+  width: 350px;
+  padding: 15px;
+  background-color: #ffaa7b;
+}
+
+.project img {
+  border: 1px solid white;
+}
