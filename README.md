@@ -1,17 +1,37 @@
-# Code Nation 2019 Advanced Hackathon: Hack the Impact 
+Welcome to Glitch
+=================
 
-### Your Project Members
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
-### What is the name of your project?    
+**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
 
-### What does this project do?
+Find out more [about Glitch](https://glitch.com/about).
 
-### Who did you design this project for?
 
-### What was your inspiration for this project?
+Your Project
+------------
 
-### What challenges did you run into?
+### ← README.md
 
-### What accomplishments are you most proud of?
+That's this file, where you can tell people what your cool website does and how you built it.
 
-### What did your team learn?
+### ← index.html
+
+Where you'll write the content of your website. 
+
+### ← style.css
+
+CSS files add styling rules to your content.
+
+### ← script.js
+
+If you're feeling fancy you can add interactivity to your site with JavaScript.
+
+### ← assets
+
+Drag in `assets`, like images or music, to add them to your project
+
+Made by [Glitch](https://glitch.com/)
+-------------------
+
+\ ゜o゜)ノ
